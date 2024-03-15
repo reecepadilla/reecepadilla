@@ -1,4 +1,4 @@
-<h1>Hi, I'm Reece, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Reece, and I'm studying to become an <a href="https://linkedin.com/in/reecepadilla">IT Professional</a>☺</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
